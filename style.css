@@ -1,0 +1,456 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.left-bar {
+  background: #f9f9f9;
+  display: inline-block;
+  position: relative;
+  width: 300px;
+  height: 950px;
+}
+
+.top-bar {
+  /* background: #f9f9f9; */
+  position: relative;
+  display: inline-block;
+  height: 70px;
+  width: 570px;
+  bottom: 950px;
+  left: 890px;
+}
+
+/* .center-second {
+  background: black;
+  display: inline-block;
+  position: relative;
+  width: 700px;
+  height: 400px;
+  left: 612px;
+  bottom: 500px;
+} */
+
+.homepage-icon {
+  width: 7%;
+  padding-top: 15px;
+  padding-left: 25px;
+}
+
+.picture-icon {
+  width: 7%;
+  padding-top: 15px;
+  padding-left: 40px;
+}
+
+.download-icon {
+  width: 7%;
+  padding-left: 40px;
+  padding-top: 15px;
+}
+
+.upload-icon {
+  width: 7%;
+  padding-left: 40px;
+  padding-top: 15px;
+}
+
+.lock-icon {
+  width: 7%;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+
+.exit-icon {
+  width: 7%;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+
+.worm-logo {
+  padding-top: 50px;
+  padding-left: 20px;
+  width: 15%;
+  border-radius: 50%;
+}
+
+.your-group {
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  padding-top: 20px;
+  padding-left: 25px;
+}
+
+.dance-group {
+  width: 10%;
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.dance-community {
+  font-family: "Montserrat", sans-serif;
+}
+
+.cook-group {
+  width: 10%;
+  padding-top: 30px;
+  padding-left: 42px;
+}
+
+.cook-community {
+  font-family: "Montserrat", sans-serif;
+}
+
+.friends {
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  padding-top: 40px;
+  padding-left: 25px;
+}
+
+.etem-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.julie-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.emily-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.erdem-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.seniz-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.lily-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.ayfer-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.kayhan-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.iris-image {
+  margin-top: 30px;
+  margin-left: 62px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.etem-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.julie-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.emily-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.erdem-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.seniz-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.lily-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.ayfer-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.kayhan-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.iris-text {
+  padding-left: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.online-icon {
+  width: 4%;
+  padding-left: 40px;
+}
+.online-icon2 {
+  width: 4%;
+  padding-left: 30px;
+}
+
+.julie-online {
+  font-family: "Montserrat", sans-serif;
+  padding-left: 22px;
+  font-size: 14px;
+}
+.emily-online {
+  font-family: "Montserrat", sans-serif;
+  padding-left: 22px;
+  font-size: 14px;
+}
+.seniz-online {
+  font-family: "Montserrat", sans-serif;
+  padding-left: 22px;
+  font-size: 14px;
+}
+.ayfer-online {
+  font-family: "Montserrat", sans-serif;
+  padding-left: 22px;
+  font-size: 14px;
+}
+.iris-online {
+  font-family: "Montserrat", sans-serif;
+  padding-left: 55px;
+  font-size: 14px;
+}
+
+.notification-bell {
+  border-radius: 50%;
+  width: 5%;
+  margin-left: 50px;
+}
+
+.laura-picture {
+  border-radius: 50%;
+  width: 10%;
+  margin-left: 20px;
+}
+
+.right-bar {
+  background: #f9f9f9;
+  display: inline-block;
+  position: relative;
+  width: 400px;
+  height: 1070px;
+  left: 830px;
+  bottom: 1000px;
+}
+
+.laura-text {
+  margin-left: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.arrow-picture {
+  width: 5%;
+  margin-left: 50px;
+}
+
+/* .center-first {
+  background: blue;
+  display: inline-block;
+  position: relative;
+  width: 700px;
+  height: 400px;
+  right: 600px;
+  bottom: 500px;
+} */
+
+.center-story {
+  display: inline-block;
+  position: relative;
+  width: 1150px;
+  height: 80px;
+  bottom: 1920px;
+  left: 380px;
+}
+
+.story1 {
+  width: 7%;
+  margin-left: 180px;
+}
+.story2 {
+  width: 7%;
+  margin-left: 15px;
+}
+.story3 {
+  width: 7%;
+  margin-left: 15px;
+}
+.story4 {
+  width: 7%;
+  margin-left: 15px;
+}
+.story5 {
+  width: 7%;
+  margin-left: 15px;
+}
+.story6 {
+  width: 7%;
+  margin-left: 15px;
+}
+.story7 {
+  width: 7%;
+  margin-left: 15px;
+}
+
+.story8 {
+  width: 7%;
+  margin-left: 15px;
+}
+
+.empty {
+  display: block;
+}
+
+.story-text1 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 192px;
+}
+.story-text2 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 252px;
+}
+.story-text3 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 302px;
+}
+.story-text4 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 362px;
+}
+.story-text5 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 410px;
+}
+.story-text6 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 449px;
+}
+.story-text7 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 505px;
+}
+.story-text8 {
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  left: 568px;
+}
+
+.box-1 {
+  background-color: cornflowerblue;
+  position: relative;
+  width: 500px;
+  height: 400px;
+  left: 500px;
+  bottom: 1850px;
+}
+
+.box-2 {
+  background-color: rgb(42, 199, 160);
+  position: relative;
+  width: 500px;
+  height: 400px;
+  left: 1050px;
+  bottom: 2250px;
+}
+
+.box-3 {
+  background-color: rgb(218, 37, 218);
+  position: relative;
+  width: 1050px;
+  height: 290px;
+  left: 500px;
+  bottom: 2200px;
+}
+
+.etem-birthday {
+  width: 20%;
+  height: 300px;
+}
+
+.august {
+  display: inline-block;
+  position: relative;
+  width: 30%;
+  margin-bottom: 200px;
+  margin-left: 246px;
+}
+
+.laura-birthday {
+  width: 20%;
+  height: 300px;
+}
+
+.november {
+  width: 30%;
+  margin-bottom: 200px;
+  margin-left: 246px;
+}
+
+.etem-birthday-text {
+  display: inline-block;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-size: 34px;
+  margin-left: 150px;
+}
+
+.laura-birthday-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 34px;
+  margin-left: 150px;
+  top: 80px;
+}
+
+.bride {
+  width: 20%;
+  margin-bottom: 200px;
+  margin-left: 40px;
+}
+
+.february {
+  width: 20%;
+  margin-left: 586px;
+  margin-bottom: 250px;
+}
